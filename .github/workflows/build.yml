@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       -  run: ./build.sh
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v6
         with:
           name: packages
           path: dist/*.zip
