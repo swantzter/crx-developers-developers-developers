@@ -5,9 +5,9 @@ Steve Ballmer play every time you hover the word "developer" (or "developers") o
 a webpage. This pays homage to the now defunct [DEVELOPERS][orig] extension by
 Todd Andersson. Now with one extra "developers"!
 
-- [Chrome](TBD)
-- [Firefox](TBD)
-- [Edge](TBD)
+- [Chrome]() TBD
+- [Firefox](https://addons.mozilla.org/addon/developers-developers/)
+- [Edge]() TBD
 
 The core of it is using manifest version 3 and an offscreen document to play
 the sound effect, it's neat enough I guess.
