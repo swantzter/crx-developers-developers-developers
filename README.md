@@ -5,7 +5,7 @@ Steve Ballmer play every time you hover the word "developer" (or "developers") o
 a webpage. This pays homage to the now defunct [DEVELOPERS][orig] extension by
 Todd Andersson. Now with one extra "developers"!
 
-- [Chrome]() TBD
+- [Chrome](https://chromewebstore.google.com/detail/developers-developers-dev/jpaghlgmhphkahjonnocpcpfcaeknihp)
 - [Firefox](https://addons.mozilla.org/addon/developers-developers/)
 - [Edge]() TBD
 
