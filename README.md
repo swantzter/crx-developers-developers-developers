@@ -7,7 +7,7 @@ Todd Andersson. Now with one extra "developers"!
 
 - [Chrome](https://chromewebstore.google.com/detail/developers-developers-dev/jpaghlgmhphkahjonnocpcpfcaeknihp)
 - [Firefox](https://addons.mozilla.org/addon/developers-developers/)
-- [Edge]() TBD
+- ~~Edge~~ (considers this extension defamatory, I consider Microslop humorless) - this plugin can be sideloaded by using the chromium.zip from the latest release
 
 The core of it is using manifest version 3 and an offscreen document to play
 the sound effect, it's neat enough I guess.
